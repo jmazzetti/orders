@@ -1,0 +1,7 @@
+server:
+  port: 8081
+  contextPath: /api/v2/
+
+management:
+    security:
+      enabled: false
