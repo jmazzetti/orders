@@ -1,0 +1,17 @@
+/.gradle/
+/gradle/
+/build/
+/bin/
+/.metadata/
+# irritating file produced by Eclipse
+RemoteSystemTempFiles/
+_DS_Store
+.DS_Store
+.classpath
+.project
+.settings
+gradlew
+gradlew.bat
+settings.gradle
+**/*.class
+# irritating file produced by vi
